@@ -1,0 +1,15 @@
+input[type="text"],input[type="number"],input[type="password"],input[type="email"]{
+    display:block;
+    margin-bottom: 50px;
+    margin-top: 5p
+    width: 50%,
+    font-size:1.2em;
+    border:0;
+    border-bottom:2px solid #ccffff;
+    background-color: transparent;
+}
+
+.active{
+    border:1px solid black;
+    color: aqua;
+}

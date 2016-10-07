@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<marksheet>
+    <course>
+        <courseid>csc401</courseid>
+        <title>AM-IV</title>
+        <th>75</th>
+        <ia>15</ia>
+        <orl>--</orl>
+        <tw>20</tw>
+        <total>100</total>
+        
+        
+    </course>
+    
+     <course>
+        <courseid>csc402</courseid>
+        <title>AM-IV</title>
+        <th>70</th>
+        <ia>16</ia>
+        <orl>--</orl>
+        <tw>20</tw>
+        <total>100</total>
+        
+        
+    </course>
+    
+     <course>
+        <courseid>csc403</courseid>
+        <title>AOA</title>
+        <th>65</th>
+        <ia>17</ia>
+        <orl>--</orl>
+        <tw>20</tw>
+        <total>100</total>
+        
+        
+    </course>
+    
+     <course>
+        <courseid>csc404</courseid>
+        <title>COA</title>
+        <th>69</th>
+        <ia>16</ia>
+        <orl>--</orl>
+        <tw>20</tw>
+        <total>100</total>
+        
+        
+    </course>
+    
+     <course>
+        <courseid>csc405</courseid>
+        <title>TCS</title>
+        <th>60</th>
+        <ia>18</ia>
+        <orl>--</orl>
+        <tw>20</tw>
+        <total>100</total>
+        
+        
+    </course>
+    
+     <course>
+        <courseid>csc406</courseid>
+        <title>CG</title>
+        <th>70</th>
+        <ia>19</ia>
+        <orl>--</orl>
+        <tw>20</tw>
+        <total>100</total>
+        
+        
+    </course>
+    
+    
+    
+</marksheet>
